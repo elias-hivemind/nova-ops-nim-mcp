@@ -1,4 +1,4 @@
-# kash-crown-nim-mcp
+# nova-ops-nim-mcp
 Nim video generation MCP for Claude
 
 ## Part of the Nova Ops shelf
