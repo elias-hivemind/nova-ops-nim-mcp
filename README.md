@@ -1,5 +1,5 @@
 # nova-ops-nim-mcp
-Nim video generation MCP for Claude
+An MCP (Model Context Protocol) server that gives AI clients two tools — nim_generate_image (Flux Pro / Flux Realism) and nim_generate_video (Kling Pro image-to-video) — through NVIDIA NIM. Both tool schemas together cost ~198 tokens per turn, measured.
 
 ## Part of the Nova Ops shelf
 
